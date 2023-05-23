@@ -19,10 +19,10 @@ summarize them.
 ### Data
 
 The data set consists of following attributes:
-● id: a string containing the heximal formatted SHA1 hash of the url where the story
+- id: a string containing the heximal formatted SHA1 hash of the url where the story
 was retrieved from
-● article: a string containing the body of the news article
-● highlights: a string containing the highlight of the article as written by the article
+- article: a string containing the body of the news article
+- highlights: a string containing the highlight of the article as written by the article
 author
 The CNN/DailyMail dataset has 3 splits: train, validation, and test. The train set consists of
 287,113 instances while the validation and test sets contain 13,368 and 11,490 instances
